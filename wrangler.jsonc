@@ -5,6 +5,6 @@
         "directory": "public"
     },
     "observability": {
-        "enabled": true
+        "enabled": false
     }
 }
